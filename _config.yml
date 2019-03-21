@@ -17,7 +17,7 @@ title: Dimitar
 email: dimitardobrikov@gmail.com
 description: First css project. 
 destination: docs
-baseurl: "project_css" # the subpath of your site, e.g. /blog
+baseurl: "/project_css" # the subpath of your site, e.g. /blog
 #baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
